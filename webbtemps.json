@@ -1,0 +1,31 @@
+{
+	
+	"currentState": {
+		
+		"launchDateTimeString" : "2021-12-25T12:20Z", 
+		
+		
+		"currentDeployTableIndex" : 5,
+		
+		
+		"tempWarmSide1C" : "---",
+		
+		
+		"tempWarmSide2C" : "---",
+		
+		
+		"tempCoolSide1C" : "---",
+		
+		
+		"tempCoolSide2C" : "---",
+		
+		
+		"tempsShow": true,
+		
+		
+		
+		"last" : ""
+		
+	}
+	
+}
