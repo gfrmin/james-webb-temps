@@ -5,19 +5,19 @@
 		"launchDateTimeString" : "2021-12-25T12:20Z", 
 		
 		
-		"currentDeployTableIndex" : 9,
+		"currentDeployTableIndex" : 10,
 		
 		
-		"tempWarmSide1C" : -6.6666667,
+		"tempWarmSide1C" : 27.7778,
 		
 		
-		"tempWarmSide2C" : 9.44444,
+		"tempWarmSide2C" : 8.33333,
 		
 		
-		"tempCoolSide1C" : -57.22,
+		"tempCoolSide1C" : -45.0,
 		
 		
-		"tempCoolSide2C" : -153.3333333,
+		"tempCoolSide2C" : -145.0,
 		
 		
 		"tempsShow": true,
