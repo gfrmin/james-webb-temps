@@ -8,16 +8,16 @@
 		"currentDeployTableIndex" : 13,
 		
 		
-		"tempWarmSide1C" : 57.7778,
+		"tempWarmSide1C" :  58.8889 ,
 		
 		
-		"tempWarmSide2C" : 17.7778,
+		"tempWarmSide2C" : 18.8889 ,
 		
 		
-		"tempCoolSide1C" : -116.111,
+		"tempCoolSide1C" : -131.667 ,
 		
 		
-		"tempCoolSide2C" :  -192.222,
+		"tempCoolSide2C" :  -194.444 ,
 		
 		
 		"tempsShow": true,
