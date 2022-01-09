@@ -11,13 +11,13 @@
 		"tempWarmSide1C" :  55  ,
 		
 		
-		"tempWarmSide2C" : 10 ,
+		"tempWarmSide2C" : 10.5556 ,
 		
 		
-		"tempCoolSide1C" : -172.222 ,
+		"tempCoolSide1C" : -178.333 ,
 		
 		
-		"tempCoolSide2C" :  -199.444 ,
+		"tempCoolSide2C" :  -200 ,
 		
 		
 		"tempsShow": true,
