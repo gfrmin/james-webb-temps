@@ -12,30 +12,30 @@
 		"currentDeployTableIndex" : 28,
 		
 		
-		"tempWarmSide1C" :  35.392  ,
+		"tempWarmSide1C" :  35.003  ,
 		
 		
 		"tempWarmSide2C" : 10.723 ,
 		
 		
-		"tempCoolSide1C" :  -221.2 ,
+		"tempCoolSide1C" :  -222.1 ,
 		
 		
-		"tempCoolSide2C" :  -218.8,
+		"tempCoolSide2C" :  -220.2,
 		
 		
 		
 		"---INST TEMPS IN KELVIN----" : "",
 		
-		"tempInstNirCamK" :  72.1 ,
+		"tempInstNirCamK" :  67.7 ,
 		
-		"tempInstNirSpecK" :  81.4 ,
+		"tempInstNirSpecK" :  76.2 ,
 		
-		"tempInstFgsNirissK" :  85.6  ,
+		"tempInstFgsNirissK" :  81.4  ,
 		
-		"tempInstMiriK" :  138.0 ,
+		"tempInstMiriK" :  136.0 ,
 		
-		"tempInstFsmK" :  47.1  ,
+		"tempInstFsmK" :  45.7  ,
 		
 		
 
