@@ -2,9 +2,9 @@
 	
 	"currentState": {
 		
-		"STEPS" : "newSingleTemps, MirrorAlignState, TempBlurb, MirrorBlurb, ArraysForPlots, Plots",
+		"STEPS" : "MirrorAlignSteps, TempBlurb, MirrorBlurb, ArraysForPlots, Plots",
 		
-		
+
 		
 		"launchDateTimeString" : "2021-12-25T12:20Z", 
 		
@@ -12,35 +12,32 @@
 		"currentDeployTableIndex" : 28,
 		
 		
-		"tempWarmSide1C" :  35.003  ,
+		"tempWarmSide1C" :  35.23  ,
 		
 		
-		"tempWarmSide2C" : 10.723 ,
+		"tempWarmSide2C" : 10.78 ,
 		
 		
-		"tempCoolSide1C" :  -222.1 ,
+		"tempCoolSide1C" :  -223.13 ,
 		
 		
-		"tempCoolSide2C" :  -220.2,
+		"tempCoolSide2C" :  -221.52,
 		
 		
 		
 		"---INST TEMPS IN KELVIN----" : "",
 		
-		"tempInstNirCamK" :  67.7 ,
+		"tempInstNirCamK" :  64.1 ,
 		
-		"tempInstNirSpecK" :  76.2 ,
+		"tempInstNirSpecK" :  71.7 ,
 		
-		"tempInstFgsNirissK" :  81.4  ,
+		"tempInstFgsNirissK" :  77.6 ,
 		
-		"tempInstMiriK" :  136.0 ,
+		"tempInstMiriK" :  134.0,
 		
-		"tempInstFsmK" :  45.7  ,
-		
+		"tempInstFsmK" :  44.0  ,
 		
 
-		
-		
 		
 		
 		
