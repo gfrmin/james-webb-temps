@@ -9,33 +9,33 @@
 		"launchDateTimeString" : "2021-12-25T12:20Z", 
 		
 		
-		"currentDeployTableIndex" : 31,
+		"currentDeployTableIndex" : 32,
 		
 		
-		"tempWarmSide1C" :  55.4 ,
+		"tempWarmSide1C" :  55.75 ,
 		
 		
-		"tempWarmSide2C" : 13.8,
+		"tempWarmSide2C" : 11.95,
 		
 		
-		"tempCoolSide1C" :  -227.8 ,
+		"tempCoolSide1C" :  -228 ,
 		
 		
-		"tempCoolSide2C" :  -230.6 ,
+		"tempCoolSide2C" :  -231 ,
 		
 		
 		
 		"---INST TEMPS IN KELVIN----" : "",
 		
-		"tempInstNirCamK" :  46.3 ,
+		"tempInstNirCamK" :  45.5 ,
 		
-		"tempInstNirSpecK" :  47.3 ,
+		"tempInstNirSpecK" :  46.2 ,
 		
-		"tempInstFgsNirissK" :  53.7 ,
+		"tempInstFgsNirissK" :  52.4 ,
 		
-		"tempInstMiriK" :   119.3 ,
+		"tempInstMiriK" :   118.0 ,
 		
-		"tempInstFsmK" :  38.9 ,
+		"tempInstFsmK" :  38.6 ,
 		
 
 		
