@@ -18,22 +18,22 @@
 		"tempWarmSide2C" : 14.0 ,
 		
 		
-		"tempCoolSide1C" :  -229.3 ,
+		"tempCoolSide1C" :  -229.4 ,
 		
 		
-		"tempCoolSide2C" :  -233.4 ,
+		"tempCoolSide2C" :  -233.5 ,
 		
 		
 		
 		"---INST TEMPS IN KELVIN----" : "",
 		
-		"tempInstNirCamK" :  42.3 ,
+		"tempInstNirCamK" :  42.2 ,
 		
-		"tempInstNirSpecK" :  39.4 ,
+		"tempInstNirSpecK" :  39.2 ,
 		
-		"tempInstFgsNirissK" :  46.7 ,
+		"tempInstFgsNirissK" :  46.5 ,
 		
-		"tempInstMiriK" :   106.0 ,
+		"tempInstMiriK" :   105.2 ,
 		
 		"tempInstFsmK" :  35.8 ,
 		
