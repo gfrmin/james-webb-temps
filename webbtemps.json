@@ -17,30 +17,30 @@
 		
 		"***COMMENT: ---HOT/COLD SIDES TEMPS IN CELSIUS----" : "",
 		
-		"tempWarmSide1C" :  52.9 ,
+		"tempWarmSide1C" :  53.4 ,
 		
 		
-		"tempWarmSide2C" : 13.4 ,
+		"tempWarmSide2C" : 13.6 ,
 		
 		
-		"tempCoolSide1C" :  -230.1 ,
+		"tempCoolSide1C" :  -230.2 ,
 		
 		
-		"tempCoolSide2C" :  -236.2 ,
+		"tempCoolSide2C" :  -236.1 ,
 		
 		
 		
 		"***COMMENT:---INSTRUMENT TEMPS IN KELVIN----" : "",
 		
-		"tempInstNirCamK" :  38.7 ,
+		"tempInstNirCamK" :  38.8 ,
 		
-		"tempInstNirSpecK" :  37.4 ,
+		"tempInstNirSpecK" :  36.8 ,
 		
-		"tempInstFgsNirissK" :  41.8 ,
+		"tempInstFgsNirissK" :  41.2 ,
 		
-		"tempInstMiriK" :   67.6,
+		"tempInstMiriK" :   62.7,
 		
-		"tempInstFsmK" :  33.5 ,
+		"tempInstFsmK" :  33.3 ,
 		
 
 		
