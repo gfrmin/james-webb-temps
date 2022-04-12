@@ -17,13 +17,13 @@
 		
 		"***COMMENT: ---HOT/COLD SIDES TEMPS IN CELSIUS----" : "",
 		
-		"tempWarmSide1C" :  53.6,
+		"tempWarmSide1C" :  53.2,
 		
 		
-		"tempWarmSide2C" : 13.2,
+		"tempWarmSide2C" : 14.1,
 		
 		
-		"tempCoolSide1C" :  -230.7 ,
+		"tempCoolSide1C" :  -230.8 ,
 		
 		
 		"tempCoolSide2C" :  -236.4 ,
@@ -34,11 +34,11 @@
 		
 		"tempInstNirCamK" :  38.4,
 		
-		"tempInstNirSpecK" :  34.5 ,
+		"tempInstNirSpecK" :  35.0 ,
 		
-		"tempInstFgsNirissK" :  38.3 ,
+		"tempInstFgsNirissK" :  38.2 ,
 		
-		"tempInstMiriK" :  5.9,
+		"tempInstMiriK" :  6.0,
 		
 		"tempInstFsmK" :  32.2 ,
 		
