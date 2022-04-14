@@ -10,20 +10,20 @@
 		
 		
 		
-		"currentDeployTableIndex" : 37,
+		"currentDeployTableIndex" : 38,
 		
 		
 		
 		
 		"***COMMENT: ---HOT/COLD SIDES TEMPS IN CELSIUS----" : "",
 		
-		"tempWarmSide1C" :  52.9,
+		"tempWarmSide1C" :  53.3,
 		
 		
-		"tempWarmSide2C" : 13.3,
+		"tempWarmSide2C" : 13.8,
 		
 		
-		"tempCoolSide1C" :  -230.8 ,
+		"tempCoolSide1C" :  -230.9 ,
 		
 		
 		"tempCoolSide2C" :  -236.4 ,
@@ -32,9 +32,9 @@
 		
 		"***COMMENT:---INSTRUMENT TEMPS IN KELVIN----" : "",
 		
-		"tempInstNirCamK" :  38.4,
+		"tempInstNirCamK" :  38.5,
 		
-		"tempInstNirSpecK" :  35.2 ,
+		"tempInstNirSpecK" :  35.4 ,
 		
 		"tempInstFgsNirissK" :  38.3 ,
 		
