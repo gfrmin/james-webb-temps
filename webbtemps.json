@@ -10,20 +10,20 @@
 		
 		
 		
-		"currentDeployTableIndex" : 39,
+		"currentDeployTableIndex" : 40,
 		
 		
 		
 		
 		"***COMMENT: ---HOT/COLD SIDES TEMPS IN CELSIUS----" : "",
 		
-		"tempWarmSide1C" :  50.7,
+		"tempWarmSide1C" :  52.3,
 
 		
-		"tempWarmSide2C" : 14.1,
+		"tempWarmSide2C" : 13.3,
 		
 		
-		"tempCoolSide1C" :  -230.9 ,
+		"tempCoolSide1C" :  -230.9,
 		
 		
 		"tempCoolSide2C" :  -236.3 ,
@@ -34,11 +34,11 @@
 		
 		"tempInstNirCamK" :  38.5,
 		
-		"tempInstNirSpecK" :  35.7 ,
+		"tempInstNirSpecK" :  35.6 ,
 		
-		"tempInstFgsNirissK" :  38.6 ,
+		"tempInstFgsNirissK" :  38.5 ,
 		
-		"tempInstMiriK" :  6.0,
+		"tempInstMiriK" :  6.1,
 		
 		"tempInstFsmK" :  32.2 ,
 		
